@@ -1,0 +1,25 @@
+{
+  "source": "https://huggingface.co/Xenova/clip-vit-base-patch32",
+  "model_file": "vision_model_quantized.onnx",
+  "sha256": "583fd1110a514667812fee7d684952aaf82a99b959760c8d7dca7e0ab9839299",
+  "base_model": "openai/clip-vit-base-patch32",
+  "labels": {
+    "person": "a photograph of a person",
+    "pet": "a photograph of a cat or dog",
+    "animal": "a photograph of an animal or insect",
+    "landscape": "a landscape photograph of mountains or water",
+    "plants": "a photograph of flowers and plants",
+    "food": "a photograph of food or a meal",
+    "architecture": "a photograph of a building or street",
+    "indoor": "a photograph of an indoor room",
+    "vehicle": "a photograph of a vehicle",
+    "object": "a photograph of an object",
+    "text": "a photograph of a sign or printed text",
+    "art": "a photograph of a painting or sculpture",
+    "sky": "a photograph of the sky or clouds",
+    "event": "a photograph of an event or performance",
+    "person_front": "a photograph of a man facing the camera",
+    "person_back": "a photograph of a man seen from behind",
+    "person_side": "a photograph of a man seen from the side"
+  }
+}

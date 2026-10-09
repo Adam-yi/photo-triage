@@ -1,0 +1,2 @@
+pillow-heif>=0.18
+rawpy>=0.20
